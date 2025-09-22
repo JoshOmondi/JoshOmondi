@@ -51,6 +51,3 @@
 
 ✨ Always open to collaboration on **Data Science & Fullstack projects**
 
----
-
-Would you like me to make this **more visually attractive with badges/icons (like for Python, Angular, Node.js, PostgreSQL, etc.)** so your GitHub stands out more to recruiters?
