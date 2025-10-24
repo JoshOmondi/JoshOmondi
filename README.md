@@ -37,9 +37,8 @@
 
 ## 📂 Featured Projects
 
-🔹 **[Student Performance Regression](#)** – Built an ML regression model with PostgreSQL integration
-🔹 **[Customer Churn Prediction](#)** – End-to-end ML project with preprocessing, training, and deployment
-🔹 **[Angular + Node.js User Management App](#)** – Fullstack app with authentication, CRUD APIs, and PostgreSQL
+🔹 **[deep_learning(fer2013_emotion_detection.ipynb)](#)** – End-to-end ML project with preprocessing, training, and deployment
+🔹 **[second month project](#)** – Fullstack app with authentication, CRUD APIs, and SQL and testing tools
 
 ---
 
