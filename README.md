@@ -36,7 +36,6 @@
 ---
 
 ## 📂 Featured Projects
-
 🔹 **[deep_learning(fer2013_emotion_detection.ipynb)](#)** – End-to-end ML project with preprocessing, training, and deployment
 🔹 **[second month project](#)** – Fullstack app with authentication, CRUD APIs, and SQL and testing tools
 
