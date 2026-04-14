@@ -43,7 +43,7 @@
 
 ## 📫 Connect with Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/joshomondi)
+* 💼 [LinkedIn]([www.linkedin.com/in/joshomondi](https://www.linkedin.com/in/joshomondi/?skipRedirect=true))
 * 📧 Email: [joshuaomondi3334@gmail.com]
 ---
 
